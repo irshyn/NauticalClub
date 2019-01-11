@@ -3,7 +3,7 @@
  * Member table, and returns appropriate responses to user's requests
  * that allow them to view, create, edit or delete member records 
  * in the Sail database
- * Assignment 4
+ * 
  * Revision History
  *          Iryna Shynkevych 2018-11-25 : created
  */
