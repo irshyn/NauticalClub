@@ -2,7 +2,7 @@
  * The ISAnnualFeeStructureController class accesses and maintains records in the
  * AnnualFeeStructure table, and returns appropriate responses to user's requests
  * that allow them to view, create, edit or delete annual fee records in the Sail database
- * Assignment 2
+ * 
  * Revision History
  *          Iryna Shynkevych 2018-10-01 : created
  */
