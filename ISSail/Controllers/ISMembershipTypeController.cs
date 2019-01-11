@@ -2,7 +2,7 @@
  * The TAMembershipTypeController class accesses and maintains records in the membershipType
  * table of the Sail database, and returns appropriate responses to user's requests
  * that allow them to view, create, edit or delete membership type type records in the Sail database
- * Assignment 1
+ * 
  * Revision History
  *          Iryna Shynkevych 2018-09-14 : created
  */
