@@ -1,7 +1,7 @@
 ﻿/*
  * The ISMemberMetadata class allows to create a self-validating class to validate
  * and edit the inputs
- * Assignment 4
+ * 
  * Revision History
  *         Iryna Shynkevych 2018-11-25 : created
  */
