@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+
+namespace ISSail.Models
+{
+    public partial class AnnualFeeStructure
+    {
+        public int Year { get; set; }
+        [Display(Name = "Annual Fee")]
+        public double? AnnualFee { get; set; }
+        public double? EarlyDiscountedFee { get; set; }
+        public DateTime? EarlyDiscountEndDate { get; set; }
+        public DateTime? RenewDeadlineDate { get; set; }
+        public double? TaskExemptionFee { get; set; }
+        public double? SecondBoatFee { get; set; }
+        public double? ThirdBoatFee { get; set; }
+        public double? ForthAndSubsequentBoatFee { get; set; }
+        public double? NonSailFee { get; set; }
+        public DateTime? NewMember25DiscountDate { get; set; }
+        public DateTime? NewMember50DiscountDate { get; set; }
+        public DateTime? NewMember75DiscountDate { get; set; }
+    }
+}
