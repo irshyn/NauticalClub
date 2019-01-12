@@ -1,4 +1,4 @@
-# Sail
+# Nautical Club
 
 ## Description
 ASP.NET Core web application generated from an existing database using C# and Microsoft's MVC techniques.
